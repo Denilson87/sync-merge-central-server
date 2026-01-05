@@ -2,9 +2,9 @@
 
 ### file location in the server
 
--denilson@MEAPUBSRVR:/srv/scripts$ ls
--atualizar_master.R  rclone.log  rscript.log
--denilson@MEAPUBSRVR:/srv/scripts$ 
+####denilson@MEAPUBSRVR:/srv/scripts$ ls
+####atualizar_master.R  rclone.log  rscript.log
+####denilson@MEAPUBSRVR:/srv/scripts$ 
 
 -denilson@MEAPUBSRVR:/srv$ cd assiduidade/
 -denilson@MEAPUBSRVR:/srv/assiduidade$ ls
